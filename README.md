@@ -1,20 +1,4 @@
-<!--
-**aviral-trivedi/aviral-trivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 🌟 Welcome to My GitHub Profile! 🌟
-
-![Banner](https://via.placeholder.com/1200x300/4CAF50/FFFFFF?text=Aspiring+Programmer+%7C+Data+Science+%7C+AI/ML+%7C+Software+Dev)
 
 Hello! 👋 I'm **Aviral Trivedi**, a passionate and curious programmer pursuing the **Computer Science and Engineering (CSE)** journey. Currently, I'm in the final year of my Intermediate CBSE studies (PCM + CS), aspiring to specialize in **Data Science**, **AI/ML**, and **Software Development**.
 
@@ -51,27 +35,29 @@ Hello! 👋 I'm **Aviral Trivedi**, a passionate and curious programmer pursuing
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-334E68?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-334E68?style=for-the-badge&logo=python&logoColor=white) 
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF6F00?style=for-the-badge)  
+![NLP](https://img.shields.io/badge/NLP-00BFFF?style=for-the-badge&logo=python&logoColor=white)  
+![Tkinter](https://img.shields.io/badge/Tkinter-FFDD00?style=for-the-badge&logo=python&logoColor=white)  
 
 ---
 
 ## 🎨 **Widgets & Dynamic Stats**
 ### 🔢 **GitHub Stats**
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aviral-trivedi&show_icons=true&theme=radical)
 
 ### 🏆 **Top Languages**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aviral-trivedi&layout=compact&theme=radical)
 
 ### 📊 **GitHub Activity Graph**
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=tokyo-night)
-
----
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aviral-trivedi)
 
 ## 🌿 **Achievements**
 ![Inspire Award Winner](https://img.shields.io/badge/Inspire_Award-Winner-Gold?style=for-the-badge)
 ![Intel AI Program](https://img.shields.io/badge/Intel_AI-Participant-Blue?style=for-the-badge)
 
----
+### 🌟 Featured Projects  
+- [**Inventory Manager (CLI)**](https://github.com/CleonGaming/inventory_manager) - A CLI tool for inventory management.  
 
 ## 🎯 **Goals**
 - **Short Term**:  
@@ -84,15 +70,11 @@ Hello! 👋 I'm **Aviral Trivedi**, a passionate and curious programmer pursuing
 ---
 
 ## 🎤 **Fun Sections**
-### Inspirational Quote
-> “Code, Create, and Collaborate.” – My Motto 🚀
-
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&duration=2000&pause=500&color=F7F7F7&vCenter=true&width=435&lines=Aspiring+Programmer;AI%2FML+Enthusiast;Open+to+Collaboration!)](https://git.io/typing-svg)
 
 ## 💌 **Let’s Connect!**
 - 🧑‍💼 [LinkedIn](https://linkedin.com/in/aviraltrivedi)  
 - 📧 [Email Me](mailto:aviraltrivedi318@gmail.com)
-- 📽 [YouTube](https://youtube.com/channel/cleongaming)  
----
+- 📽 [YouTube](https://youtube.com/channel/cleongaming)
 
 🌈 _"Code, Create, and Collaborate."_ 🌟
