@@ -7,14 +7,15 @@ Hello! 👋 I'm **Aviral Trivedi**, a passionate and curious programmer pursuing
 ## 🔥 **About Me**
 - 🎓 **Education**:  
   - **10th Grade**: Scored **91.6%** 📈  
-  - **12th Grade**: Pursuing PCM + CS 🧪
+  - **12th Grade**: Scored **87.2%** 🧪
 
 - 💻 **Projects**:  
-  - Created **Calculator**, **Login Page**, and **CLI-Based Inventory Manager** for concept building.  
   - Participated in the **Intel AI for Youth Program**, designing:  
     - An **AI Questionnaire** 📋  
     - Ideated a **CV-Based Traffic Recognition Model** 🚦  
   - Honored with invitations to Delhi workshops and national recognition.
+  - Telegram BOT based **Trading Journal** using CMS Backend.
+  - Created **Calculator**, **Login Page**, and **CLI-Based Inventory Manager** for concept building.  
 
 - 🌐 **Online Presence**:  
   - **YouTube Channel** 📽: Gaming videos, insightful podcasts, and livestreams.  
